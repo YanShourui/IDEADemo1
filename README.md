@@ -4,15 +4,15 @@ hello everyone, this is my first md file of my github. so i am very exciting abo
 dfsdfsd
 # MY LIFE
 sdfsdfds
-# Education(DAYDREAM)
+# Education(DAYDREAM-Version)
 The University of Hong Kong
 
-bachelor of computer science and technology
+bachelor in computer science and technology
 
 Columbia University in the City of New York
 
-master of computer science and technology
+master degree in computer science and technology
 
 Havard University
 
-phd of computer science and technology
+phd in computer science and technology
